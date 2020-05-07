@@ -1,2 +1,2 @@
 # hello-world
-my depository for shit i can't solve
+my repository for shit i can't solve
